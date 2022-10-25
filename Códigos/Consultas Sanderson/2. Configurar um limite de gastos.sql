@@ -39,4 +39,4 @@ END$$
 
 DELIMITER ;
 
--- CALL configurar_gastos (2000.20,1); -- TEST
+-- CALL configurar_gastos (2000.20,1); -- TESTE
