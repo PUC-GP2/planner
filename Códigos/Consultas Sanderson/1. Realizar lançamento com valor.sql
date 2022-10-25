@@ -55,4 +55,4 @@ END$$
 
 DELIMITER ;
 
--- CALL realizar_lancamento ('callLancamento',2000,1,2,1,2); -- TEST
+-- CALL realizar_lancamento ('callLancamento','2000.33',1,2,1,2); -- TEST
