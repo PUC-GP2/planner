@@ -1,0 +1,4 @@
+"id";"descricao";"valor";"data_lancamento";"tipo_lancamento";"conta_id";"categoria_id";"id_cliente";"id_via_pagamento"
+7;Aluguel Junho;600.0;"2022-02-17 00:00:00";Despesa;1;1;1;1
+8;Ifood;20.0;"2022-03-02 00:00:00";Despesa;1;2;1;2
+9;Salario;1500.0;"2022-05-25 00:00:00";Receita;1;3;1;2
